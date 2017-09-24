@@ -1,2 +1,3 @@
-# playground
+
+# conflicting playground
 # branch without conflict
